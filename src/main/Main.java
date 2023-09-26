@@ -6,7 +6,6 @@ public class Main {
 		// do nothing
 	}
 	
-	
 	// metodo que devuelve un "holi"
 	public void doSomething() {
 		System.out.println("holi");
