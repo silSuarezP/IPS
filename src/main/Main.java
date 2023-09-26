@@ -7,4 +7,8 @@ public class Main {
 	}
 	
 	// comentario
+	// metodo que devuelve un "holi"
+	public void doSomething() {
+		System.out.println("holi");
+	}
 }
